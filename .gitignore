@@ -1,0 +1,5 @@
+.coverage
+.env
+cov.xml
+__pycache__
+mempool.db
